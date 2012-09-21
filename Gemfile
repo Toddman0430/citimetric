@@ -48,3 +48,4 @@ gem "database_cleaner", ">= 0.8.0", :group => :test
 gem "mongoid-rspec", ">= 1.4.6", :group => :test
 gem "factory_girl_rails", ">= 4.0.0", :group => [:development, :test]
 gem "bootstrap-sass", ">= 2.1.0.0"
+gem "hub", ">= 1.10.2", :require => nil, :group => [:development]
